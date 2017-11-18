@@ -1,5 +1,5 @@
 # The function, longest_slide_down(), takes an array representing possible distances from one level to the next of a pyramid and finds the longest possible path from the top to the bottom that one could take by sliding (you can only move one space over left or right from one level to the next).
-# This is not the most efficient solution but is an accurate representation of my current programming skills (20171108). I worked on this solution entirely on my own.
+# This is not the most efficient solution but is an accurate representation of my current programming skills (November 2017). I worked on this solution entirely on my own.
 
 def longest_slide_down(pyramid):
     def longest_path(pyramid, index):
